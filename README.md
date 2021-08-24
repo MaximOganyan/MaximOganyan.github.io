@@ -1,2 +1,2 @@
-# MaximOganyan.github.io
+# Максим Оганян
 Мой первый сайт
