@@ -1,0 +1,656 @@
+body{
+    font-family: Arial, sans-serif;
+}
+nav{
+    width: 100%;
+    height: 60px;
+    background: #344051;
+    
+}
+
+.logo{
+    color: #fff;
+    font-size: 28px;
+    line-height: 60px;
+    padding-left: 388px;
+    float: left;
+}
+
+.menu{
+    float: left;
+    padding-left: 432px;
+}
+
+.menu li{
+    float: left;
+    line-height: 60px;
+    color: #fff;
+    text-transform: uppercase;
+    margin-right: 40px;
+    font-size: 16px;
+    
+}
+    .main{
+    width: 100%;
+    height: 1017px;
+    background:url(../img/boy.png) 90% 100%/auto 80% no-repeat , url(../img/bg.jpg) center/cover no-repeat;
+}
+    
+.title_container {
+    float: left;
+    margin: 432px 0px 0px 404px;
+    color: #2c384a;
+    text-align: center;
+}
+
+.title_container h1{
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.title_container h4{
+    margin-top: 40px;
+    font-size: 22px;
+    color: #79818d;
+    
+}
+
+.title_container input{
+    height: 40px;
+    text-align: center;
+    border: 2px solid #6d7682;
+    background: none;
+    border-radius: 5px;
+    color: #6d7682;
+    font-size: 13px;
+    padding: 0px 16px;
+    margin: 50px 14px 0px 14px;
+    
+}
+
+.obo_mne{
+    width: 100%;
+    height: 650px;
+    background: color #fff;
+    background: url(../img/cherta_zagolovka.jpg) center 58px no-repeat , url(../img/photka.jpg) center 94px no-repeat;
+}
+
+.title_container1 {
+    margin: 110px 595px 100px 598px;
+    
+}
+.title_container1 h2{
+    text-align: center;
+    margin-top: 109px;
+    font-size: 23px;
+    font-weight: bold;
+    color: #2c384a;
+}
+
+.text1 {
+   text-align: center;
+    margin-top: 323px;
+    font-size: 10px;
+    color: #4c5565;
+}
+
+.text2 {
+    text-align: center;
+    margin-top: 46px;
+    font-size: 10px;
+    color: #4c5565;
+   
+}
+
+.title_container1 input{
+    height: 36px;
+    text-align: center;
+    border: 2px solid #6d7682;
+    background: none;
+    border-radius: 5px;
+    color: #6d7682;
+    font-size: 13px;
+    margin-top: 40px;
+    margin-left: 270px;
+    padding: 9px 14px 14px 35px;
+    background: url(../img/ikonka_skachat_rezume.png) 12px no-repeat;
+}
+
+.chto_umeu{
+    width: 100%;
+    height: 525px;
+    background: url(../img/cherta_zagolovka.jpg) center 162px no-repeat , url(../img/kartinka_fona_chto_umeu.png) center no-repeat;
+}
+
+
+.title_container2 h2{
+    text-align: center;
+    padding-top: 109px;
+    font-size: 23px;
+    font-weight: bold;
+    color: #2c384a
+}
+
+.web {
+    float: left;
+    margin: 149px 0px 0px 419px;
+    background: url(../img/nout.png)center 0px no-repeat;
+    
+}
+.web h3{
+    text-align: center;
+    margin-top: 75px;
+    font-size: 14px;
+    color: #cf7600;
+    font-weight: bold;
+}
+
+.web p{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 10px;
+    color: #586070;
+    
+}
+.razrabotka {
+    float: left;
+    margin: 149px 0px 0px 83px;
+    background: url(../img/znak.png)center 0px no-repeat;
+}
+
+.razrabotka h3{
+    text-align: center;
+    margin-top: 75px;
+    font-size: 14px;
+    color: #cf7600;
+    font-weight: bold;
+}
+
+.razrabotka p{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 10px;
+    color: #586070;
+}
+
+.CEO {
+    float: left;
+    margin: 149px 0px 0px 83px;
+    background: url(../img/raketa.png)center 0px no-repeat;
+}
+
+.CEO h3{
+    text-align: center;
+    margin-top: 75px;
+    font-size: 14px;
+    color: #cf7600;
+    font-weight: bold;
+}
+
+.CEO p{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 10px;
+    color: #586070;
+    
+}
+
+
+.marketing {
+    float: left;
+    margin: 149px 0px 0px 83px;
+    background: url(../img/grammofon.png)center 0px no-repeat;
+}
+
+.marketing h3{
+    text-align: center;
+    margin-top: 75px;
+    font-size: 14px;
+    color: #cf7600;
+    font-weight: bold;
+}
+
+.marketing p{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 10px;
+    color: #586070;
+}
+
+.keisi_stoimost {
+    width: 100%;
+    height: 2005px;
+    background: #fcfdfd;
+    background: url(../img/cherta_zagolovka.jpg)center 162px no-repeat , url(../img/photka_keisi1x.png)-100px 257px no-repeat , url(../img/linia_poditoga.png)495px 1740px no-repeat;
+    
+}
+.title_container3 h2{
+    text-align: center;
+    padding-top: 112px;
+    font-size: 23px;
+    font-weight: bold;
+    color: #2c384a;
+}
+
+.title_container3 h4{
+    text-align: center;
+    margin-top: 77px;
+    font-size: 10px;
+    color: #586170;  
+}
+
+.client {
+    margin-left: 361px;
+    margin-top: 672px;
+    font-size: 18px;
+    color: #384354;
+}
+
+
+
+.company {
+    margin-left: 361px;
+    margin-top: 17px;
+    font-size: 10px;
+    color: #384354;
+}
+
+.site {
+    margin-left: 361px;
+    margin-top: 17px;
+    font-size: 18px;
+    color: #384354;  
+}
+
+.site_adress {
+    margin-left: 361px;
+    margin-top: 17px;
+    font-size: 10px;
+    color: #384354;
+}
+
+.domain {
+    height: 45px;
+    line-height: 45px;
+    border: 2px solid #63b5ae;
+    text-align: center;
+    margin: 17px 1400px 0px 361px;
+    background: #63b5ae;
+    border-radius: 5px;
+    
+    
+}
+
+.domain input{
+    font-size: 17px;
+    text-transform: uppercase;
+    color: #fff;
+    background: none;
+}
+
+
+.nazvanie_proekta {
+    margin: -170px 0px 0px 674px;
+    font-size: 18px;
+    color: #384354;
+    
+}
+
+.opisanie_proekta {
+    margin: 11px 401px 0px 674px;
+    font-size: 14px;
+    color: #384354;
+    line-height: 20px;
+    
+}
+
+.title_container4 {
+    margin: 203px 0px 0px 495px;
+    
+}
+
+.title_container4 h2{
+    padding-left: 311px;
+    font-size: 33px;
+    color: #1c2534;
+    font-weight: bold;
+}
+
+.tip {
+    margin: 60px 0px 0px 0px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #1c2534;
+}
+
+.punkt_tip {
+    margin-top: 22px;
+    width: 893px;
+    height: 57px;
+    line-height: 57px;
+    background: #eeeeee;
+    font-size: 12px;
+    padding-left: 24px;
+    font-weight: bold;
+    color: #737373;
+}
+
+.design {
+    margin-top: 50px;
+     font-size: 24px;
+    font-weight: bold;
+    color: #1c2534;
+}
+
+.punkt_design {
+    margin-top: 24px;
+    width: 893px;
+    height: 57px;
+    line-height: 57px;
+    background: #eeeeee;
+    font-size: 12px;
+    padding-left: 24px;
+    font-weight: bold;
+    color: #737373;
+}
+
+.adaptivnost {
+    margin-top: 50px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #1c2534;
+}
+
+.punkt_adaptivnost {
+    margin-top: 24px;
+    width: 893px;
+    height: 57px;
+    line-height: 57px;
+    background: #eeeeee;
+    font-size: 12px;
+    padding-left: 24px;
+    font-weight: bold;
+    color: #737373;
+}
+
+.sroki {
+    margin: 62px 0px 0px 0px;
+    font-size: 16px;
+    color: #1c2534;
+    font-weight: bold;
+    word-spacing: 825px;
+    
+    
+}
+
+.stoimost{
+    margin: 30px 0px 0px 0px;
+    font-size: 16px;
+    color: #1c2534;
+    font-weight: bold;
+    word-spacing: 786px;
+}
+
+.title_container5 {
+    width: 100%;
+    height: 500px;
+    background: url(../img/cherta_zagolovka.jpg)center 159px no-repeat , url(../img/fon_statistika.png) no-repeat;
+}
+
+.statistika {
+    text-align: center;
+    padding-top: 109px;
+    font-size: 23px;
+    font-weight: bold;
+    color: #323e4f;
+}
+    
+.klienti {
+    float: left;
+    margin: 121px 0px 0px 440px;
+    background: url(../img/smile.png)center 0px no-repeat;
+}
+
+.klienti h2{
+    text-align: center;
+    margin-top: 85px;
+    font-size: 27px;
+    font-weight: bolder;
+    color: #323e4f;
+}
+
+.klienti h5{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #323e4f;
+}
+
+.chasi {
+    float: left;
+    margin: 121px 0px 0px 159px;
+    background: url(../img/skobki.png)center 0px no-repeat;
+}
+
+.chasi h2{
+    text-align: center;
+    margin-top: 85px;
+    font-size: 27px;
+    font-weight: bolder;
+    color: #323e4f;
+}
+
+.chasi h5{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #323e4f;
+}
+
+.proekti {
+    float: left;
+    margin: 121px 0px 0px 159px;
+    background: url(../img/galochka.png)center 0px no-repeat;
+    
+}
+
+.proekti h2{
+   text-align: center;
+    margin-top: 85px;
+    font-size: 27px;
+    font-weight: bolder;
+    color: #323e4f; 
+}
+
+.proekti h5{
+  text-align: center;
+    margin-top: 30px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #323e4f;  
+}
+
+.nagradi {
+    float: left;
+    margin: 121px 0px 0px 159px;
+    background: url(../img/kubok.png)center 0px no-repeat;
+}
+
+.nagradi h2{
+    text-align: center;
+    margin-top: 85px;
+    font-size: 27px;
+    font-weight: bolder;
+    color: #323e4f;
+}
+
+.nagradi h5{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #323e4f;
+}
+
+.title_container6 {
+    width: 100%;
+    height: 591px;
+    background: url(../img/cherta_zagolovka.jpg)center 159px no-repeat , url(../img/photka_otzivi.png)center 223px no-repeat , url(../img/tochka1.png)932px 490px no-repeat , url(../img/tochka2.png)956px 490px no-repeat , url(../img/tochka3.png)979px 490px no-repeat;
+}
+
+.title_container6 h2{
+    text-align: center;
+    padding-top: 109px;
+    font-size: 23px;
+    font-weight: bold;
+    color: #323e4f
+}
+
+.title_container6 p{
+    text-align: center;
+    padding-top: 233px;
+    font-size: 12px;
+    color: #243042;
+}
+
+.title_container6 h4{
+    text-align: center;
+    padding-top: 38px;
+    font-size: 12px;
+    color: #243042;
+}
+
+.moi_kontakti {
+    width: 100%;
+    height: 1256px;
+    background: url(../img/cherta_zagolovka.jpg)center 159px no-repeat , url(../img/phon_kontakti.png)no-repeat , url(../img/karta.png)center 808px no-repeat;
+}
+
+.kontakti {
+    text-align: center;
+    padding-top: 109px;
+    font-size: 23px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.title_container7 p{
+    text-align: center;
+    padding-top: 70px;
+    font-size: 12px;
+    color: #fff;
+}
+
+.adress {
+    float: left;
+    margin: 48px 0px 0px 654px;
+    background: none;
+    padding-top: 40px;
+    text-align: center;
+    color: #fff;
+    font-size: 14px;
+    line-height: 20px;
+    background: url(../img/geo.png)center 0px no-repeat;
+    
+}
+
+.email {
+    float: left;
+    margin: 48px 0px 0px 103px;
+    background: none;
+    padding-top: 40px;
+    text-align: center;
+    color: #fff;
+    font-size: 14px;
+    background: url(../img/convert.png)center 0px no-repeat;
+}
+
+.tel {
+    float: left;
+    margin: 48px 0px 0px 114px;
+    background: none;
+    padding-top: 40px;
+    text-align: center;
+    color: #fff;
+    font-size: 14px;
+    background: url(../img/tel.png)center 0px no-repeat;
+   
+}
+
+.message h2{
+    margin: 158px 0px 0px 0px;
+    text-align: center;
+    font-size: 17px;
+    font-weight: bold;
+    color: #fff;
+}
+
+.form {
+    margin: 47px 0px 0px 595px;
+}
+
+.name {
+    margin: 0px 0px 0px 0px;
+    width: 353px;
+    height: 34px;
+    line-height: 34px;
+    padding-left: 14px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #5d5d5e;
+    background: #d2d6dc;
+}
+
+.textmail {
+    margin: 0px 0px 0px 30px;
+    width: 353px;
+    height: 34px;
+    line-height: 34px;
+    padding-left: 14px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #5d5d5e;
+    background: #d2d6dc;
+}
+
+.textpole textarea{
+    margin: 12px 0px 0px 0px;
+    width: 738px;
+    height: 95px;
+    padding-top: 11px;
+    padding-left: 13px;
+    font-size: 12px;
+    font-weight: bold;
+    color: #5d5d5e;
+    background: #d2d6dc;
+}
+
+.otpravit{
+    
+   height: 46px;
+    background: none;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    padding-left: 18px;
+    padding-right: 18px;
+    line-height: 46px;
+    text-align: center;
+    margin: 28px 0px 0px 304px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+ 
+}
+
+.copyright {
+    width: 100%;
+    height: 97px;
+    background: #354051;
+    margin: 506px 0px 0px 0px;
+    text-align: center;
+    line-height: 97px;
+    font-size: 12px;
+    color: #fff;
+}
